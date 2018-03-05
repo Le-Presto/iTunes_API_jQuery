@@ -1,0 +1,28 @@
+#res {
+    font-family: Futura;
+    font-size: 30px;
+}
+
+.selects {
+    height: 34px;
+    color: cadetblue;
+    font-family: Futura;
+    position: relative;
+    left: 40px;
+}
+
+#showResults {
+    font-family: Futura;
+    position: relative;
+    left: 40px;
+}
+#clear {
+    font-family: Futura;
+    position: relative;
+    left: 40px;
+}
+#h1 {
+    font-family: Futura;
+    position: relative;
+    left: 40px;
+}
